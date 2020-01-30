@@ -7,7 +7,6 @@ Use either the .py file or the Jupyter notebook. Both have the same code, they a
 You cannot use the WhatsApp web while tracking, but feel free to use it on your mobile.
 
 ### Prerequisites
-
 - Make sure you have Chrome browser installed;
 - Install Selenium is a web automation framework
   - The selenium package is used to automate web browser interaction
@@ -15,6 +14,5 @@ You cannot use the WhatsApp web while tracking, but feel free to use it on your 
 ```
 pip install -U selenium
 ```
-## Authors
-
+## Author
 * **Adriano Henrique Cantão** - [ahCantao](https://github.com/ahcantao)
