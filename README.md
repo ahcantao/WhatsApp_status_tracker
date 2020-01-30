@@ -1,5 +1,5 @@
 # WhatsApp_status_tracker
-A tracker to check someone's status on WhatsApp. It sends a message whenever the stalked contact is online.
+A tracker to check someone's status on WhatsApp. It sends a message whenever the stalked contact is **online**.
 
 ## Getting Started
 Use either the .py file or the Jupyter notebook. Both have the same code, they are just two options. 
